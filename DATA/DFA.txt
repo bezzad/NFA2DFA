@@ -1,0 +1,25 @@
+∑ = {a, b, c}
+Vertex Name = {q0, q1, q2, q3, q4, q5, q6}
+Final Vertex Name = {q1 , q2 , q6}
+All Vector : 
+                    q0  Arrow(a)  q1
+                    q0  Arrow(b)  q2
+                    q0  Arrow(c)  q3
+                    q1  Arrow(a)  q4
+                    q1  Arrow(b)  q5
+                    q1  Arrow(c)  q3
+                    q2  Arrow(a)  q1
+                    q2  Arrow(b)  q2
+                    q2  Arrow(c)  q3
+                    q3  Arrow(a)  q5
+                    q3  Arrow(b)  q6
+                    q3  Arrow(c)  q5
+                    q4  Arrow(a)  q4
+                    q4  Arrow(b)  q5
+                    q4  Arrow(c)  q3
+                    q5  Arrow(a)  q5
+                    q5  Arrow(b)  q5
+                    q5  Arrow(c)  q5
+                    q6  Arrow(a)  q4
+                    q6  Arrow(b)  q5
+                    q6  Arrow(c)  q5

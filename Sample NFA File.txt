@@ -1,0 +1,26 @@
+a b  c d e           
+40 
+q1 q6 q8 q19 q20 q30 q39 q33
+q0 a q1 q6 q8 q9 q11
+q0 b q0 q1 q2
+q0 q2 q8 q19 q15
+q1 a q2 q14 q17 q1
+q2 a q2 q7 q8 q9 q10
+q2 c q3 q19 q18 q17 q16
+q4 a q1
+q3 q5 q6 q7 q8 q19 q16 q12
+q8 b q1 q12 q14 q19 q13
+q20 q21 q23 q0 q9 q8 
+q0 q20 q21 q22 q23 q24
+q21 a q0 q9 q7 q2 q6 q5 q9 q1
+q6 c q7 q9 q11 q17 q16
+q1 b q9 q19 q20 q22
+q7 a q8 q19 q29 q20 q23 q26 q30 q39 q32 q13 q33
+q38 b q0 q8 q7 q5 q35 q5 q2
+q35 c q31 q32 q33 q27 q22 q23 q0
+q9 q33 q37 q2 q0 q1 q7 q8
+q39 d q1 q3 q5 q6 q8 q19 q10 q11 q12
+q34 e q12 q13 q14 q16 q17 q19 q9
+q7 e q20 q21 q22 q23 q24 q30 q39 q1 q8 q3
+q16 d q2 q8 q19 q17 q16 q9
+q25 q9 q7 q15 q19 q0
