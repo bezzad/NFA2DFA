@@ -1,0 +1,14 @@
+∑ = {a, b}
+Vertex Name = {q0, q1, q2, q3, q4}
+Final Vertex Name = {q1 , q2}
+All Vector : 
+                    q0  Arrow(a)  q1
+                    q0  Arrow(b)  q2
+                    q1  Arrow(a)  q3
+                    q1  Arrow(b)  q2
+                    q2  Arrow(a)  q1
+                    q2  Arrow(b)  q2
+                    q3  Arrow(a)  q4
+                    q3  Arrow(b)  q4
+                    q4  Arrow(a)  q4
+                    q4  Arrow(b)  q4
